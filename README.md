@@ -9,10 +9,10 @@ Here are all the files you'll need to make a Game Controller with an Arduino Mic
 [ArduinoControllerProject.zip](ArduinoControllerProject.zip) The full, finished KiCad project.  
 
 ## Videos
-[Part 0: Introduction](https://youtu.be/F5YJWUsTRzw)
-[Part 1: Schematic](https://youtu.be/Mn7SgSvi2Fk)
-[Part 2: PCB]()
-[Part 3: Assembly]()
-[Part 4: Programming]()
-[Part 5: Testing]()
+[Part 0: Introduction](https://youtu.be/F5YJWUsTRzw)  
+[Part 1: Schematic](https://youtu.be/Mn7SgSvi2Fk)  
+[Part 2: PCB]()  
+[Part 3: Assembly]()  
+[Part 4: Programming]()  
+[Part 5: Testing]()  
 
