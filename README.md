@@ -19,7 +19,7 @@ The Library: https://github.com/dmadison/ArduinoXInput
 ## Videos
 [Part 0: Introduction](https://youtu.be/F5YJWUsTRzw)  
 [Part 1: Schematic](https://youtu.be/Mn7SgSvi2Fk)  
-[Part 2: PCB]()  
+[Part 2: PCB](https://youtu.be/cZDvPnWT-lg)  
 [Part 3: Assembly]()  
 [Part 4: Programming]()  
 [Part 5: Testing]()  
