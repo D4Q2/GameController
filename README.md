@@ -13,6 +13,7 @@ The Library: https://github.com/dmadison/ArduinoXInput
 ## Other Files
 [The Manufacturing (gerber/drill/map) Files](https://www.pcbway.com/project/shareproject/Game_Controller_with_Arduino_Pro_Micro_1b2bab55.html) (You can order it from right here!)  
 [ControllerOutline.dxf](ControllerOutline.dxf) An outline of the controller you can import into KiCad to control the shape of the PCB.  
+[ControllerOutline.png](ControllerOutline.png) An image of the controller outline (not able to be directly imported into KiCad, use the .dxf for that).
 [Joystick.kicad_mod](Joystick.kicad_mod) The footprint for an Arduino joystick.  
 [ArduinoControllerProject.zip](ArduinoControllerProject.zip) The full, finished KiCad project.  
 
